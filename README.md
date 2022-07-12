@@ -270,4 +270,5 @@ plot(fig)
 
 ```python
 
-```
+```![brewing(3)](https://user-images.githubusercontent.com/86119205/178378949-dd4b6a95-bec2-4303-8e1e-692244eaced8.png)
+
