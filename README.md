@@ -257,7 +257,5 @@ plot(fig)
 
 
 
-
-
-![brewing(3)](https://user-images.githubusercontent.com/86119205/178378949-dd4b6a95-bec2-4303-8e1e-692244eaced8.png)
+![brewing(3)](https://user-images.githubusercontent.com/86119205/178465050-58db7c18-577f-40f2-88a5-d41afa50fd8c.png)
 
