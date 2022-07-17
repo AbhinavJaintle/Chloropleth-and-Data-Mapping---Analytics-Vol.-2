@@ -1,4 +1,4 @@
-# Chloropleth-and-Data-Mapping---Analytics-Vol.-2
+# Choropleth-and-Data-Mapping---Analytics-Vol.-2
 
 ## 1. Indian State Wise Alcohol Consumption Mapping:
 
